@@ -429,11 +429,11 @@ h6,
   color: #ffffff;
 }
 #menu-r .link {
-  font-size: 0.75rem;
+  font-size: 0.65rem;
 }
 #menu-r .dropdown-item,
 #menu-r .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.704rem;
 }
 #menu-r .link:hover,
 #menu-r .dropdown-item:hover,
@@ -478,10 +478,10 @@ h6,
 #header5-0 .mbr-section-lead {
   color: #9c9a9a;
 }
-#msg-box6-i .mbr-section-title,
-#msg-box6-i .lead p {
-  color: #fff;
-}
 #features1-3 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#header3-u .mbr-section-title,
+#header3-u .mbr-section-subtitle {
+  text-align: center;
 }
