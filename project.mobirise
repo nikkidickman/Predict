@@ -277,67 +277,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "INSIGHTS",
-                "showText": true,
-                "text": "Alternative Inventory (Influencer, Cinema, Smart Video Streaming) DMP on the major programmatic exchanges with over 300MM consumer records as core base of consumer file with unique data sets from film, television, social, medical and government.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-06-05-at-10-2000x785.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "SOCIAL INSIGHTS",
-                "showText": true,
-                "text": "Define, build and target your tailored audience. Reach your niche social audiences with high ROI.&nbsp;By matching your desired audience segments to the corresponding identities of social users, you can  ensure that you’re reaching precisely the right audience in your campaigns.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "VIDEO STREAMING",
-                "showText": true,
-                "text": "Connected Intelligence aids video service providers at every stage of their life cycle, most commonly as hands-on advisors within the user experience and service strategy.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> "
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider3-t",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "features1",
           "_anchor": "features1-3",
           "_params": {
@@ -454,12 +393,74 @@
           }
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "INSIGHTS",
+                "showText": true,
+                "text": "Alternative Inventory (Influencer, Cinema, Smart Video Streaming) DMP on the major programmatic exchanges with over 300MM consumer records as core base of consumer file with unique data sets from film, television, social, medical and government.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-06-05-at-10-2000x785.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "SOCIAL INSIGHTS",
+                "showText": true,
+                "text": "Define, build and target your tailored audience. Reach your niche social audiences with high ROI.&nbsp;By matching your desired audience segments to the corresponding identities of social users, you can  ensure that you’re reaching precisely the right audience in your campaigns.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "VIDEO STREAMING",
+                "showText": true,
+                "text": "Connected Intelligence aids video service providers at every stage of their life cycle, most commonly as hands-on advisors within the user experience and service strategy.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> "
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-t",
+          "articleLayout": false
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
             },
             "H3": {
-              "font-size": "72px"
+              "font-size": "72px",
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -468,9 +469,9 @@
           "_name": "header3",
           "_anchor": "header3-u",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#000000",
             "showMeta": true
           },
           "title": "CUSTOMERS &amp; PARTNERS",
@@ -570,7 +571,7 @@
             "spacing": 0,
             "showText": false,
             "filter": false,
-            "bgColor": "fff",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
