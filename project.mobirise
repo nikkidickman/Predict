@@ -457,6 +457,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "72px"
             }
           },
           "_tags": [
@@ -465,12 +468,12 @@
           "_name": "header3",
           "_anchor": "header3-u",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "CUSTOMERS AND PARTNERS",
+          "title": "CUSTOMERS &amp; PARTNERS",
           "meta": ""
         },
         {
