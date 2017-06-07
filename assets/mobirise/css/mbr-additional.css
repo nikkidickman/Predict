@@ -484,13 +484,8 @@ h6,
 #features1-3 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
-#header3-u .mbr-section-title,
-#header3-u .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-u H3 {
-  font-size: 48px;
-  color: #ffffff;
+#header2-1b .mbr-section-title {
+  font-size: 60px;
 }
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
