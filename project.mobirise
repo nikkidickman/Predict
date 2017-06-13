@@ -810,7 +810,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1190.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1190.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
