@@ -152,7 +152,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1190.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1126.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -160,7 +160,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -192,7 +192,12 @@
           },
           "title": "Ed Vincent",
           "text": "Found and Exited CityStuff, Inc. + SimplyEngage <br>Founder of Kate Shea Foundation <br>Loves flip-flops<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-text": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_tags": [
@@ -809,19 +814,19 @@
           "_anchor": "header1-1a",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1190.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1126.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://slide.ly/promo/share/593ee4af76e0df04087b23c6"
+              "url": "https://player.vimeo.com/video/221628103?autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -956,6 +961,12 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "features1-3",
@@ -965,7 +976,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1190.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1126.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -973,7 +984,7 @@
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.2",
             "overlayColor": "#222",
             "columns": "3",
             "showImages": true,

@@ -472,6 +472,9 @@ h6,
 #menu-v .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header2-18 .mbr-section-text {
+  font-size: 18px;
+}
 #msg-box7-19 .mbr-section-title,
 #msg-box7-19 .lead p {
   color: #fff;
@@ -676,6 +679,12 @@ h6,
 }
 #features1-3 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#features1-3 .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
+#features1-3 .mbr-cards-col:nth-child(even) .card-text {
+  color: #ffffff;
 }
 #header2-1b .mbr-section-title {
   font-size: 60px;
