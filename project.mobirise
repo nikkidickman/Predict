@@ -91,7 +91,7 @@
           "_anchor": "menu-v",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -367,7 +367,7 @@
           "_anchor": "menu-y",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -549,7 +549,7 @@
           "_anchor": "menu-y",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -724,10 +724,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -762,7 +762,7 @@
           "_anchor": "menu-r",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.6",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
