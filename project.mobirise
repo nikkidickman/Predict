@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Pricing.html",
+    "currentPage": "Home.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -384,7 +384,7 @@
               "src": "@PROJECT_PATH@/assets/images/ci-logo-1-178x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "Home.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1332,7 +1332,7 @@
               "src": "@PROJECT_PATH@/assets/images/ci-logo-1-178x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "Home.html",
               "title": "",
               "linkInNewWindow": false
             },
