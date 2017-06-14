@@ -262,6 +262,9 @@
           "_styles": {
             ".mbr-section-title, .lead p": {
               "color": "#fff"
+            },
+            "P": {
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -275,7 +278,7 @@
             "paddingBottom": "6",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1190.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1126.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -595,7 +598,8 @@
               "color": "#ffffff"
             },
             ".mbr-section-text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "18px"
             }
           },
           "_tags": [
@@ -607,7 +611,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1190.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1126.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -822,7 +826,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://player.vimeo.com/video/221628103?autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/OOFtCc_3Jj4?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,

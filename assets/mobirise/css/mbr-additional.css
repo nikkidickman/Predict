@@ -479,6 +479,9 @@ h6,
 #msg-box7-19 .lead p {
   color: #fff;
 }
+#msg-box7-19 P {
+  font-size: 18px;
+}
 #menu-y .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -606,6 +609,7 @@ h6,
 }
 #header6-17 .mbr-section-text {
   color: #ffffff;
+  font-size: 18px;
 }
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
