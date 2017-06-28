@@ -690,8 +690,12 @@ h6,
 #features1-3 .mbr-cards-col:nth-child(even) .card-text {
   color: #ffffff;
 }
-#header2-1b .mbr-section-title {
-  font-size: 60px;
+#msg-box2-1w .mbr-section-title {
+  color: #efefef;
+  font-size: 72px;
+}
+#msg-box2-1w .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #menu-1n .hide-buttons .nav-btn {
   display: none !important;
